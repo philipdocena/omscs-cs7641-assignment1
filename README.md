@@ -9,4 +9,4 @@ The code in this repository has been sanitized (to the best of my abilities) to 
 
 I used the MNIST and USPS digits datasets.  This is a good choice if you have a lot of time! :)  The datasets have too many records and have high dimensions.  A smaller subset is a good consideration.  It is of course trivial to change the code for any other dataset.
 
-Finally, I am unsure about the absolute correctness of this code.  I did successfuly use an earlier version of this code during my time, refactored a little bit, and re-run it before posting this version.  I think it works correctly and consistently, but I did not check exactly.  Also, Python3.  This should work on Python2 but the machine I used to test this was only Python3.  Sorry, too lazy today.
+Finally, I am unsure about the absolute correctness of this code.  I did successfuly use an earlier version of this code during my time, refactored that old code a little bit, and re-run it before posting this version.  I think it works correctly and consistently, but I did not check exactly.  Also, Python3.  This should work on Python2 but the machine I used to test this was only Python3.  Sorry, too lazy today.
