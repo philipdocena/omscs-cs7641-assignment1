@@ -1,6 +1,4 @@
-# OMSCS CS7641 Assignment #1
-
-# Generic code for the first assignment in the ML course at Georgia Tech (CS7641, Spring 2018)
+# Assignment #1 in the ML course at Georgia Tech (OMSCS CS7641, Spring 2018)
 
 This repository contains generic code to run experiments for the graduate ML course in Georgia Tech (Spring 2018 edition).  The course assigned zero credit to the code written and submitted by students.  Students were granted freedom to write from scratch or copy code from any source.  The scope, depth, and quality of the analysis/report drawn from the experiments determined the student's grade for the assignment.  No restriction was placed against publicly publishing our own code, as long as no analysis was shared.
 
