@@ -7,4 +7,6 @@ This repository contains generic code to run experiments for the graduate ML cou
 
 The code in this repository has been sanitized (to the best of my abilities) to avoid showing enough information for a good report.  The settings and parameters used are default or nominally expected basic settings.  Additional parameters and ranges are definitely needed to elicit better experiments and analysis.
 
+I used the MNIST and USPS digits datasets.  This is a good choice if you have a lot of time! :)  The datasets have too many records and have high dimensions.  A smaller subset is a good consideration.  It is of course trivial to change the code for any other dataset.
+
 Finally, I am unsure about the absolute correctness of this code.  I did successfuly use an earlier version of this code during my time, refactored a little bit, and re-run it before posting this version.  I think it works correctly and consistently, but I did not check exactly.  Also, Python3.  This should work on Python2 but the machine I used to test this was only Python3.  Sorry, too lazy today.
