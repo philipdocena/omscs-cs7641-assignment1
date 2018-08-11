@@ -32,8 +32,8 @@ def MNIST_loader(train_start,train_end,test_start,test_end,echo=False):
     """ prep MNIST dataset filenames """
     if echo: print('Loading MNIST, [train_start, train_end],[test_start, test_end]',train_start,train_end,test_start,test_end)
     
-    train_file='C:/Users/Philip/Documents/Home/Dad/mnist_train.csv'
-    test_file='C:/Users/Philip/Documents/Home/Dad/mnist_test.csv'
+    train_file='mnist_train.csv'
+    test_file='mnist_test.csv'
     
     return digits_loader(train_file,train_start,train_end,test_file,test_start,test_end,echo=echo)
 
@@ -42,8 +42,8 @@ def USPS_loader(train_start,train_end,test_start,test_end,echo=False):
     """ prep USPS dataset filenames """
     if echo: print('Loading USPS, [train_start, train_end],[test_start, test_end]',train_start,train_end,test_start,test_end)
     
-    train_file='C:/Users/Philip/Documents/Home/Dad/usps_train.csv'
-    test_file='C:/Users/Philip/Documents/Home/Dad/usps_test.csv'
+    train_file='usps_train.csv'
+    test_file='usps_test.csv'
     
     return digits_loader(train_file,train_start,train_end,test_file,test_start,test_end,echo=echo)
 
